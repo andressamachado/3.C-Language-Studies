@@ -1,0 +1,6 @@
+#ifndef LAB2DECKOFCARDS_FORMAT_H
+#define LAB2DECKOFCARDS_FORMAT_H
+
+void printCard(int, int );
+
+#endif //LAB2DECKOFCARDS_FORMAT_H

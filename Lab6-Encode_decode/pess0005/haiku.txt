@@ -1,0 +1,3 @@
+In 8234
+Memory, pointers are NULL
+Segmentation fault!
